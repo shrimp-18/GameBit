@@ -1,0 +1,12 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Part
+C1,0.1uF,https://lcsc.com/datasheet/lcsc_datasheet_2304140030_TORCH-CT41G-0805-2X1-50V-0-1-F-M-N_C138340.pdf,cap:C_0805,1,,0.1uF Capacitor
+C2,10uF,https://lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15850.pdf,cap:C_0805,1,,10uF Capacitor
+J1,Conn_01x08_MountingPin,https://lcsc.com/product-detail/image/HB-PH3-25418PB2GOP_C6332201.html,mount:HB_PH3_25418PB2GOP_8Pin,1,,Mounting pin 1x8
+J3,Conn_01x02,https://lcsc.com/product-detail/image/PZ254V-11-02P_C492401.html,cap:PZ254V_11_02P,1,,Mounting pin 1x2
+LS1,Speaker,https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590165296179802112,,1,DNP,Speaker 8ohm 
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8",SW_Push,https://www.khon-switch.com/upload/1c/202404/TSW08131.pdf,button8:TSX08131_3.4x3.0_SMT,8,,8X8 tactile push button
+SW9,SW_SHDN,https://www.khon-switch.com/upload/1c/202404/TSW08131.pdf,on/off:TSX08131_3.4x3.0_SMT,1,,8X8 tactile push button
+SW10,JS102011SAQN,https://lcsc.com/datasheet/lcsc_datasheet_2410010333_C-K-JS102011SAQN_C221660.pdf,on/off:CK_JS102011SAQN,1,,Slide button
+U1,SC1176,https://datasheets.raspberrypi.com/rpizero2/raspberry-pi-zero-2-w-product-brief.pdf,rpi:MODULE_SC1176,1,,Raspberry Pi Zero 2W
+U2,MAX98357A,https://www.analog.com/media/en/technical-documentation/data-sheets/MAX98357A-MAX98357B.pdf,Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm,1,,Audio Module 
+LCD,,https://files.waveshare.com/upload/a/ad/ST7789VW.pdf,,1,DNP,LCD Display 
