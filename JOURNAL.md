@@ -4,6 +4,8 @@ Author: Neha A.
 Description: A cuter and better GameBoy micro
 Created_At: 24th June,2025
 ---
+Total Time: 24 hours
+
 (I didn't journal v actively as I was building this game console, so a lot of it is taken from my friend's DMs whom i regularly updated and my ChatGPT history)
 
 10th May, 2025
