@@ -13,4 +13,4 @@ The PCB:
 ![image](https://github.com/user-attachments/assets/ba2ec8a0-46cc-4957-93cb-0c47240ccc89)
 
 The BOM:
-
+![image](https://github.com/user-attachments/assets/ff97425d-0feb-4473-b170-12d3985af5c3)
