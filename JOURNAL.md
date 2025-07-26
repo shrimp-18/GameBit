@@ -4,7 +4,7 @@ Author: Neha A.
 Description: A cuter and better GameBoy micro
 Created_At: 24th June,2025
 ---
-Total Time: 24 hours
+Total Time: 27 hours
 
 (I didn't journal v actively as I was building this game console, so a lot of it is taken from my friend's DMs whom i regularly updated and my ChatGPT history)
 
@@ -102,3 +102,11 @@ Session:30 mins
 and just like that the game console GameBit is finally completed. Will focus on making a 3d printed case on fusion360 later. 
 ps: the hours are not inflated but im a newbie and researching stuff takes a lot of time 😭
 Lmao its somehow came out to Total :24 hours 
+
+25th July,2025
+<img width="776" height="398" alt="image" src="https://github.com/user-attachments/assets/9345701a-64c2-4bb0-9a15-8a53df4dfd31" />
+this happened while making the cad model +case
+so i make the pcb from scratch AGAIN and while doing that i found like 2-3 more issues which i fixed.
+Session:3 hours
+
+
