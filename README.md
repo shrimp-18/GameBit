@@ -1,5 +1,5 @@
 # GameBit
-GameBit is a custom project made for Hackclub's Highway event. 
+GameBit is a custom project made for Hackclub. 
 It is a portable Gaming Console (HAT) with a 2 inch LCD Screen, Audio Capabilities, 8 buttons for gameplay and 2 for on/off functionality, powered by a Raspberry Pi Zero 2W.
 It is 130 X 44 mm in dimensions. 
 
